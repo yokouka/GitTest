@@ -1,1 +1,2 @@
 fruits: apple, orange, pineapple
+pets: dog, cat, camel
